@@ -1,1 +1,1 @@
-# automated_fact_checking_system
+# Automated Fact Checking System
