@@ -1,6 +1,7 @@
 # COMP90042 Project 2023: Automated Fact Checking For Climate Science Claims
 
 This project is part of the COMP90042 Natural Language Processing course at the University of Melbourne, Semester 1, 2023.
+![giphy](https://github.com/qvunguyen/automated_fact_checking_system/assets/125786884/7a936c57-ee06-4297-8fca-6a955e2d2236)
 
 ## [Data](https://drive.google.com/drive/folders/1ytu9cuuy72Xqp5WS2qzvflwKsqMoA96b?usp=drive_link)
 
