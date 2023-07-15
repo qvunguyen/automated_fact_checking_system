@@ -1,5 +1,17 @@
 # Automated Fact-Checking System for Climate Science Claims
 
+## [Data](https://drive.google.com/drive/folders/1ytu9cuuy72Xqp5WS2qzvflwKsqMoA96b?usp=drive_link)
+
+[train-claims,dev-claims].json: JSON files for the labelled training and development set;
+
+[test-claims-unlabelled].json: JSON file for the unlabelled test set; 
+
+evidence.json: JSON file containing a large number of evidence passages (i.e. the “knowledge source”); 
+
+dev-claims-baseline.json: JSON file containing predictions of a baseline system on the development set; 
+
+eval.py: Python script to evaluate system performance (see “Evaluation” below for more details).
+
 ## Introduction
 
 In the age of disinformation, reliable fact-checking methods are essential. This project aims to develop an automated fact-checking system for climate science claims. The system uses a two-step approach: evidence retrieval and claim classification.
