@@ -123,6 +123,9 @@ pip install tqdm
 pip install concurrent.futures
 pip install rank_bm25
 ```
+## License
+
+Copyright the University of Melbourne, 2023
 
 ## Contact
 
